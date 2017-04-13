@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment 1</string>
+    <string name="custom_title">AD340 Assignment 1</string>
+    <string name="user_name">Aaron Hand</string>
+    <string name="user_info">Hi! This will be my 3rd course on mobile app development and the subject has become one of my favorites.
+        Fun facts about myself?  Last summer I backpacked through the Pasayten wilderness and nearly completed the boundary trail but snow
+        was quickly accumulating so we had to bug out 100 miles in.
+    </string>
+</resources>
